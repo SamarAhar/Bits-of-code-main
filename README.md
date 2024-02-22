@@ -6,10 +6,6 @@
   <a href="https://samarblogs.vercel.app/" target="_blank">samarblogs.vercel.app</a>
 </h2>
 
-<div align="center">
-  <img alt="Demo" src="./Extra/demo.gif" />
-</div>
-
 <br/>
 
 <center>
